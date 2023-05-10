@@ -1,3 +1,1 @@
-# Name : Wasif Ali Khan
-  CodeClause
-    : Good price prediction
+# Gold Price Prediction
