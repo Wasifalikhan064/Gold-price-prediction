@@ -1,13 +1,6 @@
 
 # Name : Wasif Ali Khan
 
-    CodeClause
-       | Data Science Intern
-          |  Task 1 |> Gold Price Prediction
-
-
-
-
 ## 🔗 Colab |> Gold Price Prediction
 https://colab.research.google.com/drive/1ILGuzwZO1NT6sdK-16X4zFxRCJTh5Q7f?usp=sharing
 
